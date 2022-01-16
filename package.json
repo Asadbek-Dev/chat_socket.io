@@ -11,5 +11,9 @@
     "url": "chat_socket.io"
   },
   "author": "Asadbek",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
 }
